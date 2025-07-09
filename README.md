@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I love building backend apps, bots, and IoT projec
 - 🔥 **Firebase**, **Firestore**, **Realtime DB**
 - 🤖 **Telegram Bots** using Aiogram and PyTelegramBotAPI
 - 💾 **SQLite**
-- 🧠 **ESP32**, **ESP8266**, **Arduino Uno**, **Embedded C**, **PlatformIO**, **Arduino IDE**,
+- 🧠 **ESP32**, **ESP8266**, **Arduino Uno**, **Arduino IDE**, **IAR Embedded Workbench**, **PlatformIO**
 
 ---
 
