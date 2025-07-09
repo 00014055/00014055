@@ -3,8 +3,6 @@
 🧑‍💻 Python Developer | ⚙️ Embedded Systems Fan | 🌐 Firebase Explorer  
 Welcome to my GitHub profile! I love building backend apps, bots, and IoT projects.
 
-![Welcome Gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
 ---
 
 ## 🔧 Tech Stack
@@ -14,13 +12,6 @@ Welcome to my GitHub profile! I love building backend apps, bots, and IoT projec
 - 🤖 **Telegram Bots** using Aiogram and PyTelegramBotAPI
 - 💾 **SQLite**
 - 🧠 **ESP32**, **ESP8266**, **Arduino Uno**, **Embedded C**, **PlatformIO**, **Arduino IDE**,
-
-
-## 📊 GitHub Stats
-
-![Farangis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
-![Farangis's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
 
 ---
 
@@ -42,7 +33,7 @@ Welcome to my GitHub profile! I love building backend apps, bots, and IoT projec
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200" alt="Thanks Gif"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzl2OXA5aXZiM3J0dmtqbmg5MHkzcWdoNDdudnd6emlpdGp4dTEwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" width="200" alt="Thanks Gif"/>
 </p>
 
 <p align="center">
